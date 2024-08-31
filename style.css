@@ -1,0 +1,29 @@
+*,
+html,
+body {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: 70'Poppins', sans-serif;
+  perspective: 800px;
+}
+
+.custom-margin{
+  margin-top: -35%;
+}
+body {
+  background-color:black;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+.card{
+  background-color:grey;
+  color: white;
+}
